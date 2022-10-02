@@ -1,0 +1,1 @@
+My custom flutter animated dialog package
